@@ -28,12 +28,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:TPS565208
 LIBS:OBC-PDB-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 4 6
 Title ""
 Date ""
 Rev ""
@@ -43,4 +44,12 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 3900 1300 0    118  ~ 0
+Pwr Screw Terms\n
+Text Notes 9300 2550 0    118  ~ 0
+Extra I/O
+Text Notes 4850 5300 0    118  ~ 0
+AIN and Hall effects
+Text Notes 2500 3850 0    118  ~ 0
+Shiftbutton Screw Terms
 $EndSCHEMATC

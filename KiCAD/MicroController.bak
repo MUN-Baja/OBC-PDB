@@ -28,12 +28,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:TPS565208
 LIBS:OBC-PDB-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 3 6
 Title ""
 Date ""
 Rev ""
@@ -43,4 +44,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 3650 2250 0    118  ~ 0
+atmega and supp
+Text Notes 8400 1950 0    118  ~ 0
+icsp and reset
 $EndSCHEMATC

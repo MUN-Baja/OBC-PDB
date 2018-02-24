@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:TPS565208
 LIBS:OBC-PDB-cache
 EELAYER 25 0
 EELAYER END
@@ -61,4 +62,24 @@ U 5A8ED590
 F0 "Conn" 98
 F1 "Conn.sch" 98
 $EndSheet
+$Sheet
+S 5950 3800 3200 1000
+U 5A9118F5
+F0 "Peripherals" 118
+F1 "Peripherals.sch" 118
+$EndSheet
+$Sheet
+S 2050 5150 2200 1600
+U 5A911902
+F0 "OLED Dashboard" 118
+F1 "OLED Dashboard.sch" 118
+$EndSheet
+Text Notes 8150 7650 0    59   ~ 0
+Feb. 24/2018
+Text Notes 7400 7550 0    118  ~ 0
+On Board Computer (OBC)
+Text Notes 10550 7650 0    59   ~ 0
+1.0
+Text Notes 7350 6950 0    197  ~ 0
+Memorial Baja
 $EndSCHEMATC
