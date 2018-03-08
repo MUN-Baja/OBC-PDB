@@ -1,4 +1,4 @@
-update=Saturday, February 24, 2018 'amt' 02:23:21 am
+update=Wednesday, March 07, 2018 'pmt' 08:30:38 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=library/TPS565208
+LibName31=/Users/mitchellstride/projects/PCB-Libraries/KiCAD/public-github/kicad-symbols/Switch

@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:TPS565208
+LIBS:Switch
 LIBS:OBC-PDB-cache
 EELAYER 25 0
 EELAYER END
@@ -52,8 +53,4 @@ Text Notes 2050 6600 0    118  ~ 0
 uSD
 Text Notes 7000 1900 0    118  ~ 0
 TX module
-Text Notes 2050 2900 0    118  ~ 0
-button
-Text Notes 1950 2250 0    118  ~ 0
-3 state leds
 $EndSCHEMATC

@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:TPS565208
+LIBS:Switch
 LIBS:OBC-PDB-cache
 EELAYER 25 0
 EELAYER END
