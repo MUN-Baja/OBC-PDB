@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)/footprints")(options "")(descr ""))
+  (lib (name Final)(type KiCad)(uri C:/projects/OBC-PDB/Silk/Final)(options "")(descr ""))
 )
