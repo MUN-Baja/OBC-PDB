@@ -707,21 +707,6 @@ Wire Wire Line
 	3350 2450 3650 2450
 Wire Wire Line
 	3650 2450 3650 2250
-$Comp
-L D D7
-U 1 1 5AF1C272
-P 1400 2300
-F 0 "D7" H 1400 2400 50  0000 C CNN
-F 1 "D" H 1400 2200 50  0000 C CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1400 2300 50  0001 C CNN
-F 3 "" H 1400 2300 50  0001 C CNN
-	1    1400 2300
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1550 2450 1400 2450
 Connection ~ 1550 2450
-Wire Wire Line
-	1400 2150 1550 2150
 Connection ~ 1550 2150
 $EndSCHEMATC
